@@ -1,4 +1,4 @@
-# Behemoth (Formerly known as UwURevenge)
+# Behemoth Formerly known as [UwURevenge](https://github.com/uwurevenge/UwURevenge/tree/master)
 
 Behemoth is my brainchild from SIUEs eHacks 2019 hackathon. It is a space-themed arcade dog-fighting game that employed a custom arduino controller that would hook up to EKG sensors placed on a players preferred muscle groups.
 
