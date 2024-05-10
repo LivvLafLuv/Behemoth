@@ -1,5 +1,4 @@
 # Behemoth 
-### *Formerly known as [UwURevenge](https://github.com/uwurevenge/UwURevenge/tree/master)
 
 The winner of SIUEs eHacks 2019 Hackathon BEST OVERALL, Behemoth is a space-themed arcade dog-fighting game that employs a custom arduino controller that hooks up to EKG sensors placed on a players preferred muscle groups. The player is thrown into an ongoing space battle between two gargantuan battleships. The object is to gather your allies and destroy key points on the enemy battleship before your own is destroyed while avoiding hazards and enemy fighters. The player can select from multiple custom controller (mouse and keyboard, a custom banana based controller, and the FLEX controller).
 
